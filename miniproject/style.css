@@ -1,0 +1,84 @@
+body{
+    background: pink;
+}
+
+.jumbotron{
+    background: url('chicago-il-cloud-gate-at-dusk.jpg');
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+
+
+#city{
+    margin-top: 100px;
+    text-align: center;
+    font-size:200px;
+    color:white;
+}
+
+#date{
+    margin-top: 20px;
+    text-align: center;
+    font-size:50px;
+    color:white;
+}
+
+#suggestion{
+    text-align: center;
+    font-size: 29px;
+}
+
+#things-to-do{
+    text-align: center;
+    font-size:40px;
+}
+
+#news{
+    text-align:center;
+    font-size:40px;
+}
+
+.col-sm-6{
+    height: 500px;
+}
+
+#weather{
+    text-align: center;
+    background-color: #7082A5;
+    font-size: 40px;
+    
+ 
+}
+
+#breezy1{
+    margin-left: 230px;
+    margin-bottom:50px;
+    max-height: 500px;
+    max-width: 500px;
+    
+}
+
+#breezy2{
+    margin-left: 230px;
+    margin-bottom:50px;
+    max-height: 500px;
+    max-width: 500px;
+}
+
+#breezy3{
+    margin-left: 230px;
+    margin-bottom:50px;
+    max-height: 500px;
+    max-width: 500px;
+}
+#breezy4{
+    margin-left: 230px;
+    max-height: 500px;
+    max-width: 500px;
+}
+
+.tintup{
+    margin-left: 230px;
+}
